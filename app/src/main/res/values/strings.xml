@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tennis</string>
+    <string name="play">Play</string>
+    <string name="reset_match">Reset Match</string>
+    <string name="col_points">PTS</string>
+    <string name="col_games">JEUX</string>
+    <string name="col_sets">SETS</string>
+    <string name="get_ready">Préparez-vous…</string>
+    <string name="get_ready_caps">PRÉPAREZ-VOUS</string>
+</resources>

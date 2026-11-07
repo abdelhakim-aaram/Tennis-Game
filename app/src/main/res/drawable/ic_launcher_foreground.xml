@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tennis ball, centred inside the adaptive-icon safe zone -->
+    <path
+        android:fillColor="#C6E800"
+        android:pathData="M54,24a30,30 0 1,0 0.001,0z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M30,39C44,50 44,66 30,77"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="4" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M78,39C64,50 64,66 78,77"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="4" />
+</vector>
